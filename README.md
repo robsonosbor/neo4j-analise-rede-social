@@ -112,6 +112,10 @@ O banco de dados foi construído seguindo as etapas abaixo:
 
 ## Modelo conceitual
 
+A seguir, o diagrama geral do modelo de dados (nós, relacionamentos e principais propriedades):
+
+![Visão geral do grafo](images/graph-overview.png)
+
 ### Principais nós
 - `User`
 - `Post`
